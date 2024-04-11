@@ -1,3 +1,5 @@
 let greet = "hello"
 
-console.log (greet)
+let user = "world"
+
+console.log (greet + " " + user)
